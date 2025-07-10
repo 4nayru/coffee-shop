@@ -1,2 +1,3 @@
-# coffee-shop
-This is a simple coffee shop
+# coffee-shop ☕
+This is my first simple coffee shop homework using:
+HTML & CSS
